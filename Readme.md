@@ -33,7 +33,7 @@
   See it in action:
   https://robertsicher.github.io/react-portfolio/
   
-  ![An image of it in action ](/readme-image.png)
+  ![An image of it in action ](/readme-img.png)
   
   
   ## Author
